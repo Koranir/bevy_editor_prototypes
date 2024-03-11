@@ -1,0 +1,8 @@
+[package]
+name = "ws-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = { version = "0.13.0" }
+bevy-world-sync = { path = "../../bevy-world-sync" }
